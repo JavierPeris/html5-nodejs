@@ -1,0 +1,11 @@
+{
+  "name": "examples",
+  "version": "0.0.0",
+  "description": "A series of examples to improve my knowledge about NodeJS",
+  "main": "server.js",
+  "repository": "",
+  "author": "Javier Peris <javierperis@gmail.com>",
+  "dependencies": {
+    "express": "~4.9.0"
+  }
+}
